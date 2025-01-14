@@ -32,3 +32,7 @@ To run the app, run the following command:
 ```
 npm start
 ```
+
+##The App is deployed on Netlify at the following link:
+
+[netlify link](https://notes-app-arijit-chakraborty.netlify.app/)

@@ -63,6 +63,7 @@ export default function HomePage({
             <Form.Group controlId="tags">
               <Form.Label>Tags</Form.Label>
               <StateManagedSelect
+                className="text-dark"
                 isMulti
                 value={selectedTags.map((tag) => {
                   return { label: tag.label, value: tag.id };
